@@ -10,7 +10,7 @@ Set Application Name to 'multi-docker'
 
 Scroll down to Platform and select Docker
 
-The Platform Branch should be automatically set to Docker Running on 64bit Amazon Linux 2.
+The Platform Branch should be automatically set to **Docker Running on 64bit Amazon Linux 2**.
 
 Click Create Application
 
@@ -30,17 +30,17 @@ In Templates, check the Free tier box.
 
 Scroll down to Settings.
 
-Set DB Instance identifier to multi-docker-postgres
+Set DB Instance identifier to **multi-docker-postgres**
 
-Set Master Username to postgres
+Set Master Username to **postgres**
 
-Set Master Password to postgrespassword and confirm.
+Set Master Password to **postgrespassword** and confirm.
 
 Scroll down to Connectivity. Make sure VPC is set to Default VPC
 
 Scroll down to Additional Configuration and click to unhide.
 
-Set Initial database name to fibvalues
+Set Initial database name to **fibvalues**
 
 Scroll down and click Create Database button
 
